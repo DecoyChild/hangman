@@ -1,0 +1,10 @@
+waffle
+STOP
+heard
+cnacel
+rant
+super
+awesome
+negative
+positive
+excelent
